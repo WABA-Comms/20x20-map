@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8" >
+<!-- required for media query -->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>20x20 - Connected, Protected & Equitable</title>
+
+<!-- css -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.css'/>
+<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css" type="text/css"/>
+
+<!-- custom -->
+<link rel="stylesheet" href="./css/map.css">
+
+<!-- javascript libraries (custom are at the bottom) -->
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.js'></script>
+<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js"></script>
+<!-- Promise polyfill script required to use Mapbox GL Geocoder in IE 11 -->
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+
+</head>
+<body>
+    <div id="map"></div>
+
+    <div class="container-sm">
+        <div class="row">
+            <div class="col-sm-3 mt-4 ml-4 p-4 text-dark" id="left-panel">
+                <div id='intro-content'>
+                    <img src="https://waba.org/wp-content/uploads/2019/07/20x20-logo.jpg" id="logo20">
+                    <h5>
+                        20 miles of new protected bike lanes by the end of 2020.
+                    </h5>
+                    <p>
+                        It’s possible. It’s necessary. We need your help.
+                    </p>
+                    <p>
+                        This is how we get there. Our vision for what’s possible by the end of 2020 is grounded in what we know is possible. Every one of these 20 miles are at some stage of study, planning, or design, and that means we can build this. Our timeline is aggressive, but it’s realistic — we just need you and your neighbors to stand with us.
+                    </p>
+                    <a href="https://waba.org/donate-20x20/" target="blank">
+                        <button class="blue-button1">
+                            Donate
+                        </button>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-3 mb-4 ml-4 p-4 text-dark" id="legend" >
+                <table id="legend-table">
+                    <tr>
+                        <td></td>
+                        <td>Protected Lanes</td>
+                        <td></td>
+                        <td>Trails</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Existing</td>
+                        <td ><span class="street existing"></span></td>
+                        <td id="existing_PBL_network_layer" class="toggle"></td>
+                        <td><span class="trail existing"></span></td>
+                        <td id="existing_trail_network_layer" class="toggle"></td>
+                    </tr>
+                    <tr>
+                        <td>2020</td>
+                        <td>
+                            <span class="street twenty"></span>
+                            <span class="street twenty"></span>
+                            <span class="street twenty"></span>
+                            <span class="street twenty"></span>
+                            <span class="twenty-complete"></span>
+                        </td>
+                        <td id="2020_PBL_network_layer" class="toggle"></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2025</td>
+                        <td>
+                            <span class="street twenty-five"></span>
+                            <span class="street twenty-five"></span>
+                            <span class="street twenty-five"></span>
+                            <span class="street twenty-five"></span>
+                            <span class="street twenty-five"></span>
+                            <span class="street twenty-five"></span>
+                            <span class="street twenty-five"></span>
+                            <span class="street twenty-five"></span>
+                        </td>
+                        <td id="2025_PBL_network_layer" class="toggle"></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2040</td>
+                        <td>
+                            <span class="street forty"></span>
+                            <span class="forty-space"></span>
+                            <span class="street forty"></span>
+                            <span class="forty-space"></span>
+                            <span class="street forty"></span>
+                            <span class="forty-space"></span>
+                            <span class="street forty"></span>
+                        </td>
+                        <td id="2040_PBL_network_layer" class="toggle"></td>
+                        <td>
+                            <span class="trail forty"></span>
+                            <span class="forty-space"></span>
+                            <span class="trail forty"></span>
+                            <span class="forty-space"></span>
+                            <span class="trail forty"></span>
+                            <span class="forty-space"></span>
+                            <span class="trail forty"></span>
+                        </td>
+                        <td id="2040_trail_network_layer" class="toggle"></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+    <button id="fly"><img src="./img/home.png" alt="Home by Becris from the Noun Project" id="home"></button>
+
+    <nav id="menu"></nav>
+    
+    <!-- custom javascript -->
+    <script src="./js/map.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2021 - 2025 Protected Bike Lane Projects.kml</name>
+	<Style id="line-9C27B0-1388-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+			<width>2.082</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-9C27B0-1388-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+			<width>1.388</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-9C27B0-1388-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-9C27B0-1388-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-9C27B0-1388-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>2021 - 2025 Protected Bike Lane Projects</name>
+		<Placemark>
+			<name>Connecticut Ave NW PBL &amp; Deckover - 0.5 mi</name>
+			<styleUrl>#line-9C27B0-1388-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0438145,38.9102792,0 -77.0461863,38.9143621,0 -77.0464324,38.916056,0 -77.0467013,38.9167996,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Maine Ave PBL - 0.23 mi</name>
+			<styleUrl>#line-9C27B0-1388-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0226955,38.87841,0 -77.0223668,38.8781748,0 -77.02129789999999,38.8771787,0 -77.02085599999999,38.8763592,0 -77.0208647,38.8756189,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>15 St NW/SW PBL 1.18 mi</name>
+			<styleUrl>#line-9C27B0-1388-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0336911,38.8954553,0 -77.0336623,38.8917935,0 -77.03355500000001,38.8907914,0 -77.03301860000001,38.8900399,0 -77.0328469,38.8891714,0 -77.0333619,38.8884365,0 -77.0337911,38.8879187,0 -77.033834,38.8871337,0 -77.0337696,38.8845782,0 -77.03334049999999,38.8840771,0 -77.03295420000001,38.8836596,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C St NE PBL - 0.37 mi</name>
+			<styleUrl>#line-9C27B0-1388-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9751911,38.8932967,0 -76.9767789,38.89328,0 -76.97825949999999,38.8932967,0 -76.98061989999999,38.8932967,0 -76.9815854,38.89328,0 -76.9821433,38.893113,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>K St NW Transitway - 1.23 mi</name>
+			<styleUrl>#line-9C27B0-1388-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0489005,38.9025233,0 -77.0260267,38.9025233,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>New York Avenue Trail - 1.8 mi</name>
+			<styleUrl>#line-9C27B0-1388-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.00463000000001,38.909,0 -77.00134730000001,38.9100992,0 -76.9930432,38.9129543,0 -76.98109119999999,38.9171116,0 -76.9803617,38.9172785,0 -76.9723955,38.9173578,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Dave Thomas Circle PBL - 0.4 mi</name>
+			<styleUrl>#line-9C27B0-1388-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.00582180000001,38.9056281,0 -77.0058654,38.9083285,0 -77.0044935,38.9088002,0 -77.0058654,38.9083285,0 -77.005968,38.9094973,0 -77.0044935,38.9088002,0 -77.005968,38.9094973,0 -77.0044935,38.9088002,0 -77.0034313,38.9083243,0 -77.002031,38.9077522,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Connecticut Ave PBL - 3.86 mi</name>
+			<styleUrl>#line-9C27B0-1388-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0467013,38.9167996,0 -77.0475914,38.9184735,0 -77.0489106,38.9189454,0 -77.05266520000001,38.9255652,0 -77.0573215,38.9334941,0 -77.06161299999999,38.9409715,0 -77.0672993,38.9507175,0 -77.0703463,38.9559405,0 -77.07663340000001,38.9666855,0 -77.07686940000001,38.9670859,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

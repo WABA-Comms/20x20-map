@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2040 On-Street Bike Network Vision.kml</name>
+	<Style id="line-0288D1-1194-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffd18802</color>
+			<width>1.791</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-0288D1-1194-normal">
+		<LineStyle>
+			<color>ffd18802</color>
+			<width>1.194</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-0288D1-1194-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-0288D1-1194-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-0288D1-1194-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="line-0288D1-1194">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-0288D1-1194-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-0288D1-1194-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-0288D1-1194-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffd18802</color>
+			<width>1.194</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-0288D1-1194-highlight">
+		<LineStyle>
+			<color>ffd18802</color>
+			<width>1.791</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>2040 On-Street Bike Network Vision</name>
+		<Placemark>
+			<name>Mississippi Ave SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9885148,38.839815,0 -76.99006300000001,38.8395109,0 -76.99167559999999,38.8390898,0 -76.9930092,38.8388274,0 -76.9942784,38.8387489,0 -76.9952493,38.8386193,0 -76.9962632,38.8383895,0 -76.99650459999999,38.8383227,0 -76.9971591,38.8381096,0 -76.9983553,38.8376081,0 -76.99986269999999,38.8367766,0 -77.00074789999999,38.8362961,0 -77.0014721,38.8359117,0 -77.00329600000001,38.83475,0 -77.0051842,38.833488,0 -77.00615790000001,38.8328403,0 -77.0070028,38.8322093,0 -77.0073944,38.8316598,0 -77.0076358,38.8310685,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Southern Ave SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9623093,38.8516961,0 -77.0013623,38.8211424,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>South Capitol St PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.00883229999999,38.8708148,0 -77.009004,38.8711489,0 -77.0090469,38.8718339,0 -77.009109,38.8720158,0 -77.00917560000001,38.876812,0 -77.0090898,38.8840281,0 -77.0090469,38.8858654,0 -77.009052,38.8875666,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Alabama Ave SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9338564,38.8738509,0 -76.9351868,38.8734834,0 -76.9364313,38.8730825,0 -76.9377188,38.8724476,0 -76.9389204,38.8718462,0 -76.9400792,38.8714453,0 -76.9419674,38.8710443,0 -76.94600149999999,38.8703427,0 -76.94707440000001,38.8697747,0 -76.9483618,38.8684716,0 -76.9496922,38.8672687,0 -76.9507222,38.8661326,0 -76.95158050000001,38.8655311,0 -76.95372620000001,38.8647292,0 -76.95535700000001,38.8641945,0 -76.9561724,38.8634928,0 -76.9569449,38.8624569,0 -76.9581036,38.8620559,0 -76.9595198,38.8618888,0 -76.96222349999999,38.8615546,0 -76.96449800000001,38.8608863,0 -76.9668154,38.8599172,0 -76.96810290000001,38.8589481,0 -76.96930450000001,38.8575445,0 -76.970077,38.8566757,0 -76.9699911,38.8546036,0 -76.970077,38.8528324,0 -76.97054900000001,38.852164,0 -76.9713644,38.8516626,0 -76.97248020000001,38.851295,0 -76.97411099999999,38.8510276,0 -76.97574179999999,38.8504929,0 -76.97677179999999,38.8499247,0 -76.9778017,38.8488886,0 -76.97891749999999,38.8477857,0 -76.9805483,38.8467495,0 -76.9836382,38.8458471,0 -76.9888739,38.8446104,0 -76.9974141,38.8431397,0 -76.9996886,38.8430728,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>East Capitol St NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9683982,38.8901567,0 -76.967608,38.889831,0 -76.9536404,38.8897527,0 -76.9135575,38.8897861,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Massachusetts Ave SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9649701,38.8795305,0 -76.9644122,38.8792799,0 -76.9635753,38.8789458,0 -76.962717,38.8785617,0 -76.96149389999999,38.8780606,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>13th St SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.988488,38.8447285,0 -76.9885148,38.839815,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>4th St NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.000598,38.9025262,0 -77.00057769999999,38.8732109,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>6th St NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9983787,38.9056688,0 -76.99862109999999,38.8765588,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Constitution Ave NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.01317520000001,38.8920737,0 -77.00461780000001,38.8920545,0 -77.00292260000001,38.8920378,0 -76.9957343,38.8920044,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Massachusetts Ave SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0007138,38.8941382,0 -76.99848179999999,38.894105,0 -76.9984817,38.8931447,0 -76.99155089999999,38.8903431,0 -76.9883327,38.8903638,0 -76.9883379,38.8890486,0 -76.9773035,38.8845514,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>I St SW/SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.02287,38.8785316,0 -77.02184,38.8792833,0 -77.0214323,38.8793167,0 -77.0005326,38.8793,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>C St NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9821433,38.893113,0 -76.98758770000001,38.8908115,0 -76.9883327,38.8903638,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Massachusetts Ave NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0007138,38.8941382,0 -77.0032458,38.8950734,0 -77.0052199,38.8959084,0 -77.0058422,38.896042,0 -77.00637860000001,38.8959752,0 -77.0071511,38.8961756,0 -77.007473,38.8964595,0 -77.00778800000001,38.8970348,0 -77.0083527,38.8972277,0 -77.0126657,38.8988977,0 -77.0162277,38.9002337,0 -77.0189099,38.9010686,0 -77.02195690000001,38.9021708,0 -77.0224558,38.9023419,0 -77.0230298,38.9025173,0 -77.02357689999999,38.9027594,0 -77.02410260000001,38.902989,0 -77.03073310000001,38.9052099,0 -77.0327286,38.9058945,0 -77.03611890000001,38.9071301,0 -77.0377926,38.9076477,0 -77.04274940000001,38.9094344,0 -77.0486514,38.9115962,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Reservoir Rd NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0992916,38.9172477,0 -77.0975426,38.9164819,0 -77.0956005,38.915833,0 -77.09002150000001,38.9141488,0 -77.086921,38.91334,0 -77.0845286,38.9123809,0 -77.0839922,38.9124978,0 -77.0829622,38.9126815,0 -77.08253310000001,38.9126815,0 -77.0788209,38.9126648,0 -77.0761387,38.9126815,0 -77.07266250000001,38.9125813,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Rhode Island Ave NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0410232,38.9057188,0 -77.0392208,38.9062698,0 -77.0373539,38.9069711,0 -77.0361094,38.9074052,0 -77.0354013,38.9076056,0 -77.03308389999999,38.9084572,0 -77.03017629999999,38.909459,0 -77.0281593,38.910177,0 -77.02339569999999,38.9118299,0 -77.02069210000001,38.9127649,0 -77.0166366,38.9141841,0 -77.001187,38.9195099,0 -76.9983117,38.9205116,0 -76.9947926,38.9216635,0 -76.9853313,38.9247609,0 -76.9635074,38.9352012,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Missouri / Military Ave PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0661284,38.9609894,0 -77.05815149999999,38.9610064,0 -77.05521450000001,38.9610146,0 -77.053231,38.9614525,0 -77.05198179999999,38.9618383,0 -77.05101380000001,38.9619478,0 -77.0500459,38.9615901,0 -77.04898369999999,38.9608476,0 -77.047943,38.9604138,0 -77.04599039999999,38.9603637,0 -77.0447029,38.9606807,0 -77.0433725,38.9614148,0 -77.0414413,38.962466,0 -77.04038989999999,38.9629665,0 -77.0394029,38.9631334,0 -77.038051,38.9629999,0 -77.03648459999999,38.962466,0 -77.0353903,38.9623492,0 -77.0326651,38.9619654,0 -77.0285453,38.9613648,0 -77.0279659,38.9612146,0 -77.02800879999999,38.9609143,0 -77.0260347,38.9603136,0 -77.01970470000001,38.9582447,0 -77.00910450000001,38.9547741,0 -77.0057465,38.9555416,0 -77.00393870000001,38.9559588,0 -77.0028631,38.9562174,0 -77.0023455,38.9568431,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>R/Q St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.07274839999999,38.9136164,0 -77.07111759999999,38.9136164,0 -77.0691649,38.9136665,0 -77.067341,38.9137166,0 -77.06659000000001,38.9137333,0 -77.0645301,38.9136665,0 -77.06401510000001,38.9136164,0 -77.063028,38.9132992,0 -77.0606677,38.9127816,0 -77.0594017,38.9125312,0 -77.0582859,38.9125479,0 -77.05717009999999,38.9125145,0 -77.05710569999999,38.910561,0 -77.0561616,38.910561,0 -77.0534365,38.9105777,0 -77.05176280000001,38.9106278,0 -77.0513122,38.910728,0 -77.0507113,38.9110786,0 -77.0498959,38.9111454,0 -77.0488446,38.911112,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>South Dakota Ave NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0023455,38.9568431,0 -76.99856939999999,38.9539432,0 -76.99161719999999,38.9484031,0 -76.9839782,38.942996,0 -76.97814169999999,38.937455,0 -76.9714469,38.9313126,0 -76.9650955,38.9250362,0 -76.9606323,38.9219645,0 -76.9553966,38.9185588,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>New Hampshire Ave PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.00241250000001,38.9658157,0 -77.01372069999999,38.9505485,0 -77.0166174,38.9466436,0 -77.0174543,38.9455756,0 -77.0199004,38.9423213,0 -77.0219603,38.9394507,0 -77.02699440000001,38.9327931,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>14th St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.02699440000001,38.9327931,0 -77.0280137,38.9329183,0 -77.0328524,38.9313909,0 -77.032788,38.9308401,0 -77.0323588,38.9265001,0 -77.0319726,38.9231614,0 -77.0318868,38.9199561,0 -77.0327451,38.9198559,0 -77.0339896,38.9195888,0 -77.0347192,38.9189544,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>L St NW</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.05328969999999,38.9036762,0 -77.0528498,38.9037513,0 -77.04890109999999,38.9037447,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Independence Ave SW/SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.03379270000001,38.8877837,0 -77.0333206,38.8878171,0 -77.03289150000001,38.8877837,0 -77.0324408,38.8876501,0 -77.0319902,38.8875666,0 -77.03102459999999,38.8875833,0 -77.0173776,38.8875833,0 -77.0035929,38.8876927,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>P St SW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0137251,38.871993,0 -77.009109,38.8720158,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>4th St SW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0175395,38.8792708,0 -77.0176491,38.8764427,0 -77.0175418,38.8761921,0 -77.01756330000001,38.8720492,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Bladensburg Rd NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9577663,38.9307212,0 -76.95883910000001,38.9299534,0 -76.9620578,38.9276498,0 -76.96540520000001,38.9248454,0 -76.96798010000001,38.9227754,0 -76.97188540000001,38.9180007,0 -76.9748036,38.9144279,0 -76.9761769,38.9125913,0 -76.97664899999999,38.9111554,0 -76.9774644,38.9093522,0 -76.9784514,38.9075823,0 -76.9833867,38.900068,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Good Hope Rd SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.98861530000001,38.8675845,0 -76.9808453,38.866032,0 -76.9783348,38.8655141,0 -76.9769186,38.8648959,0 -76.9745368,38.8638266,0 -76.97236959999999,38.8629244,0 -76.9707173,38.8621558,0 -76.9693226,38.8612034,0 -76.9684213,38.8603513,0 -76.9677562,38.8601174,0 -76.9668154,38.8599172,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>L St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0275377,38.9041516,0 -77.0184611,38.9041933,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Delaware Ave NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0066925,38.8960618,0 -77.0081945,38.8920537,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>17th St. NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.03947220000001,38.8918795,0 -77.03947220000001,38.9013318,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Virginia Ave NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.04053930000001,38.8921002,0 -77.040711,38.8921503,0 -77.0408182,38.8921879,0 -77.0417463,38.8926388,0 -77.04350580000001,38.8935532,0 -77.04456260000001,38.8941085,0 -77.04520100000001,38.8945177,0 -77.04603779999999,38.8949895,0 -77.0470088,38.8954946,0 -77.0478885,38.8959414,0 -77.0497768,38.8969434,0 -77.0508873,38.8975655,0 -77.0543151,38.8993941,0 -77.05584399999999,38.9002374,0 -77.0566808,38.9006924,0 -77.0569866,38.9008761,0 -77.0571958,38.9009179,0 -77.057344,38.9009523,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Mt Olivet Rd NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9787788,38.9073251,0 -76.9803345,38.9080514,0 -76.9820618,38.9089531,0 -76.98379989999999,38.9097963,0 -76.9850015,38.9102639,0 -76.9862461,38.9107314,0 -76.98770519999999,38.9110987,0 -76.98864930000001,38.9115662,0 -76.9895076,38.912209,0 -76.99028010000001,38.9124344,0 -76.99112770000001,38.9123843,0 -76.9922534,38.9122672,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>9th St NE + Brentwood Rd PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9882733,38.9238353,0 -76.9888314,38.921306,0 -76.9939598,38.9170363,0 -76.9938523,38.9150371,0 -76.993509,38.9144695,0 -76.9929082,38.9134677,0 -76.9922534,38.9122672,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Deleware Ave NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.00676799999999,38.8960605,0 -77.0082486,38.8920523,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Nebraska Ave NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.09339,38.9326637,0 -77.0909466,38.933225,0 -77.08826569999999,38.9352749,0 -77.0860996,38.937692,0 -77.07743069999999,38.9480393,0 -77.0701351,38.9565163,0 -77.0608841,38.9670952,0 -77.05334790000001,38.9712001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Minnesota Ave SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9844717,38.8666502,0 -76.984116,38.866711,0 -76.96153270000001,38.8779249,0 -76.95320719999999,38.8896839,0 -76.9491302,38.8952286,0 -76.94767109999999,38.8962975,0 -76.9467269,38.8977337,0 -76.94604030000001,38.8991698,0 -76.9425495,38.9018123,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Wisconsin Ave NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0858585,38.9607975,0 -77.08354110000001,38.9562591,0 -77.0808803,38.9508526,0 -77.080022,38.9483161,0 -77.0766746,38.9424417,0 -77.0726406,38.9346307,0 -77.0724689,38.9325609,0 -77.0732414,38.9236137,0 -77.0720397,38.9207423,0 -77.06749069999999,38.9151995,0 -77.06431499999999,38.909122,0 -77.06277,38.9061165,0 -77.0627715,38.9025755,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>14th/16th St NW Connector PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0363955,38.9367879,0 -77.0329194,38.9336166,0 -77.0328524,38.9313909,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>US Rte 29 PBL (Georgia Ave / 6th SW NW)</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.02645680000001,38.9843719,0 -77.02645680000001,38.9794346,0 -77.02748680000001,38.9697592,0 -77.0279659,38.9612146,0 -77.0279159,38.9551435,0 -77.02748680000001,38.9500039,0 -77.0252552,38.9411256,0 -77.0243969,38.93712,0 -77.0231094,38.9298425,0 -77.0224228,38.9224308,0 -77.0219293,38.9191586,0 -77.0219615,38.9162453,0 -77.0200195,38.9154857,0 -77.01985999999999,38.90366,0 -77.0200195,38.8951809,0 -77.0200195,38.8919743,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>4th St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.01833499999999,38.9227065,0 -77.01742350000001,38.9161829,0 -77.0171016,38.9139958,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>New York Ave NW/NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.00463000000001,38.909,0 -77.01985999999999,38.90366,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Benning Road NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.98533879999999,38.9006698,0 -76.9833867,38.900068,0 -76.9714397,38.8979992,0 -76.96953910000001,38.89753,0 -76.9601708,38.8967976,0 -76.95468820000001,38.8961845,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Martin Luther King Jr. Ave SW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.98861530000001,38.8675845,0 -76.99035790000001,38.8637604,0 -76.99177419999999,38.8630587,0 -76.9940057,38.861321,0 -76.99529320000001,38.8592157,0 -76.99619439999999,38.8552389,0 -76.99597989999999,38.8489223,0 -76.9961515,38.8464824,0 -76.99795399999999,38.844477,0 -76.9996886,38.8430728,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>37th St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0732414,38.9236137,0 -77.07266250000001,38.9125813,0 -77.07269700000001,38.9125731,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Michigan Ave NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.97761439999999,38.9464305,0 -76.9783654,38.9458464,0 -76.9798031,38.9439105,0 -76.9807472,38.9428257,0 -76.9816699,38.9425587,0 -76.9837084,38.9425253,0 -76.9858541,38.9425086,0 -76.98795699999999,38.9406894,0 -76.99184080000001,38.937268,0 -76.99246309999999,38.9364001,0 -76.99274200000001,38.9353819,0 -76.9940939,38.9343638,0 -76.9950166,38.933596,0 -76.99643279999999,38.9331119,0 -77.000102,38.9316263,0 -77.00270999999999,38.930282,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>M St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0689661,38.9040613,0 -77.0685677,38.9051183,0 -77.06685109999999,38.9051016,0 -77.0621733,38.9051851,0 -77.0571226,38.9052947,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Pennsylvania Ave NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.05801049999999,38.9052853,0 -77.0562496,38.9046844,0 -77.0515947,38.9029976,0 -77.0505647,38.9026971,0 -77.0493585,38.9023102,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>K St NW Connector PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0590969,38.9025734,0 -77.0560364,38.9025635,0 -77.05283919999999,38.9025802,0 -77.0508222,38.90248,0 -77.0496206,38.9024299,0 -77.0489005,38.9025233,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Maryland Ave NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9702443,38.9055893,0 -76.99848179999999,38.894105,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Montana Ave NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9855151,38.9246048,0 -76.985322,38.9241207,0 -76.98381999999999,38.9231358,0 -76.9807301,38.9210323,0 -76.9790564,38.9198971,0 -76.978477,38.9192293,0 -76.9782625,38.9176934,0 -76.9783912,38.9174263,0 -76.97864869999999,38.9169254,0 -76.9786988,38.9167652,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Franklin St NE PBL (West)</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9924571,38.9255874,0 -76.98836900000001,38.925523,0 -76.98515039999999,38.9257567,0 -76.9833908,38.9257233,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Warder St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.02047829999999,38.9276352,0 -77.0203925,38.9277521,0 -77.01959859999999,38.9279858,0 -77.01934110000001,38.9282028,0 -77.0195556,38.9290875,0 -77.0198547,38.9302987,0 -77.0182533,38.9305329,0 -77.0179892,38.9294714,0 -77.0180321,38.9288037,0 -77.0185257,38.9282695,0 -77.019384,38.9281861,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>F St. NW PBL - 0.6 mi</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0394689,38.8973549,0 -77.0501548,38.8973716,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Kenyan St. PBL - 0.7 mi</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0327219,38.9301735,0 -77.0318528,38.9296769,0 -77.0317831,38.9296644,0 -77.02971239999999,38.9296602,0 -77.0277383,38.9296728,0 -77.0263489,38.9298063,0 -77.0240369,38.9300191,0 -77.0238062,38.93004,0 -77.02357550000001,38.9300442,0 -77.0234146,38.9300275,0 -77.0228996,38.9299315,0 -77.02263139999999,38.9299231,0 -77.0222291,38.9299565,0 -77.0217677,38.9299941,0 -77.0198547,38.9302987,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Columbia Road PBL - 1.1 mi</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.04637959999999,38.9158453,0 -77.0462294,38.9168136,0 -77.0446845,38.9191342,0 -77.04320389999999,38.9222728,0 -77.04251720000001,38.9227736,0 -77.03676660000001,38.9262792,0 -77.0348377,38.9274141,0 -77.0324129,38.927531,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Virginia Ave Trail</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.003429,38.8804623,0 -77.00352890000001,38.8807022,0 -77.0036683,38.8807857,0 -77.00594820000001,38.8814329,0 -77.0091079,38.8823099,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>E St NW PBL - 1.4 mi</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.03364550000001,38.8963874,0 -77.0328516,38.8963707,0 -77.0319933,38.8961202,0 -77.0296115,38.8961035,0 -77.02596370000001,38.8961035,0 -77.0189041,38.8961202,0 -77.01508459999999,38.8961202,0 -77.0089906,38.8961369,0 -77.0075959,38.8965878,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Western Ave St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0770739,38.9677182,0 -77.08581820000001,38.9607221,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Loughboro Rd NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.11461730000001,38.935514,0 -77.11231549999999,38.935586,0 -77.109054,38.9357863,0 -77.1047624,38.9356528,0 -77.10193,38.9355193,0 -77.10029919999999,38.9349184,0 -77.0999559,38.9338502,0 -77.0983251,38.9329822,0 -77.0960936,38.9323389,0 -77.09467739999999,38.9324346,0 -77.09339,38.9326637,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Alaska Ave NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.02645680000001,38.9843719,0 -77.0364841,38.9748322,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Benning Rd SE</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9375333,38.8897648,0 -76.93637680000001,38.8869802,0 -76.93440270000001,38.8831719,0 -76.9320043,38.8795948,0 -76.9312855,38.8778576,0 -76.9311675,38.8759616,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>49th St Bike Way</name>
+			<description>Part of 49th already has bike markings. This connections serves as a passageway N-S and between major resources in Ward 7</description>
+			<styleUrl>#line-0288D1-1194</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9328826,38.8898454,0 -76.9329255,38.8950895,0 -76.9332259,38.8959913,0 -76.93326879999999,38.8966593,0 -76.9325393,38.8972605,0 -76.93174550000001,38.898343,0 -76.93172389999999,38.9016024,0 -76.93163800000001,38.9065117,0 -76.93163800000001,38.9085488,0 -76.93223879999999,38.9089829,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Rock Creek Connector to NS Protected Bike ways</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0239066,38.9363834,0 -77.02165359999999,38.9369842,0 -77.01972240000001,38.9372513,0 -77.01774829999999,38.9377353,0 -77.0157742,38.9392708,0 -77.01442230000001,38.9409898,0 -77.01322070000001,38.9421748,0 -77.0123624,38.943343,0 -77.01191179999999,38.9440273,0 -77.0104097,38.9449285,0 -77.00607530000001,38.9467475,0 -77.0047601,38.9456715,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Southern Ave SE</name>
+			<description>Listed as &quot;bicycle lane&quot; in Move DC but should be a PBL in the next iteration of Move DC.</description>
+			<styleUrl>#line-0288D1-1194</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.91086900000001,38.8939193,0 -76.910912,38.891648,0 -76.924559,38.8811922,0 -76.9260611,38.881092,0 -76.9261908,38.8797932,0 -76.93504059999999,38.8729087,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Bisecting Route Ward 7</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9375333,38.8897606,0 -76.9411783,38.8839576,0 -76.94266639999999,38.8822716,0 -76.9447981,38.8811536,0 -76.9472346,38.8802751,0 -76.9481309,38.8796521,0 -76.9489414,38.8787284,0 -76.9492008,38.8778902,0 -76.94894720000001,38.8762136,0 -76.94807520000001,38.874481,0 -76.9486193,38.8728486,0 -76.9487747,38.870817,0 -76.9493038,38.8696065,0 -76.94941780000001,38.8686558,0 -76.9500748,38.86769,0 -76.9522467,38.8669613,0 -76.95300690000001,38.8663894,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Harewood Rd + Taylor St NW</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.01085,38.94459,0 -77.0093226,38.9429904,0 -77.0050488,38.94079,0 -76.98795699999999,38.9406894,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Connecticut Ave NW PBL (CBD)</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0438145,38.9102792,0 -77.04371209999999,38.9101622,0 -77.0433044,38.9093274,0 -77.042253,38.9075408,0 -77.0393562,38.9025648,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Franklin Ave NE PBL (East)</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0024616,38.9256,0 -76.9961746,38.9255749,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>15th St NW PBL (Northern)</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0353047,38.9233984,0 -77.0355356,38.9270842,0 -77.03626509999999,38.9287201,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Washington Ave SW between Independance and South Capitol</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0138827,38.8875605,0 -77.00906550000001,38.8832011,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>South Capitol SE / SW</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0077503,38.8357094,0 -77.00850130000001,38.8335365,0 -77.0077288,38.83128,0 -77.0076644,38.8269171,0 -77.0071494,38.8256801,0 -77.00586199999999,38.8238245,0 -77.0027721,38.8223367,0 -77.0013623,38.8211424,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>7th St NW/SW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0218928,38.8933405,0 -77.0218928,38.8913364,0 -77.0219142,38.887662,0 -77.0220644,38.8822001,0 -77.0219786,38.8792937,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Wheeler Road SW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.98742799999999,38.8321467,0 -76.99193409999999,38.835005,0 -76.9932216,38.8367098,0 -76.993522,38.8374118,0 -76.99367220000001,38.8405373,0 -76.99420859999999,38.8436793,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>M St SW/SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.02086970000001,38.8764429,0 -77.0205478,38.8766266,0 -77.01990410000001,38.8764596,0 -77.018917,38.8764429,0 -77.0163635,38.8764512,0 -77.0113424,38.8764679,0 -77.00593979999999,38.8765128,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Stanton Rd SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9791937,38.8430901,0 -76.9790062,38.8446836,0 -76.9807871,38.8478087,0 -76.9809588,38.8508836,0 -76.98113050000001,38.8516857,0 -76.9834541,38.8533977,0 -76.9858512,38.8543594,0 -76.9868597,38.8558466,0 -76.98713859999999,38.8573003,0 -76.9876536,38.857952,0 -76.9885977,38.8583697,0 -76.9910651,38.8584518,0 -76.99338229999999,38.8583834,0 -76.9950132,38.8591737,0 -76.996172,38.8599472,0 -76.998876,38.8615945,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>MLK Ave SE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.9996886,38.8430728,0 -77.0025741,38.8424331,0 -77.0077503,38.8357094,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>U St NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.04155950000001,38.9170222,0 -77.03928500000001,38.9169889,0 -77.03072330000001,38.9170389,0 -77.0239681,38.9170065,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Florida Ave NW PBL (East)</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0488446,38.911112,0 -77.04887650000001,38.9112454,0 -77.0486514,38.9115962,0 -77.04793239999999,38.9121638,0 -77.0472887,38.9130153,0 -77.0469883,38.9136664,0 -77.0463874,38.9142007,0 -77.0458081,38.9146014,0 -77.0448639,38.9151023,0 -77.04349070000001,38.9158035,0 -77.04216030000001,38.9165381,0 -77.04155950000001,38.9170222,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Florida Ave NW PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0239681,38.9170065,0 -77.0219615,38.9162453,0 -77.013171,38.9125812,0 -77.0076778,38.9102436,0 -77.005968,38.9094973,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>K St NE</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-77.0035531,38.9025297,0 -76.9961656,38.9025154,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>4th St NE PBL</name>
+			<styleUrl>#line-0288D1-1194-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-76.999983,38.9078816,0 -76.99911400000001,38.9090964,0 -76.9980733,38.91062,0 -76.998363,38.911125,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

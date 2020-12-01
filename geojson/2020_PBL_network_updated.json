@@ -1,0 +1,1761 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9949424,
+                        38.9257433,
+                        0
+                    ],
+                    [
+                        -76.9949855,
+                        38.9318497,
+                        0
+                    ],
+                    [
+                        -76.9950183,
+                        38.9324363,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "8th St NE PBL - 0.00 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0035531,
+                        38.9025297,
+                        0
+                    ],
+                    [
+                        -77.0062889,
+                        38.9025214,
+                        0
+                    ],
+                    [
+                        -77.0093359,
+                        38.9024964,
+                        0
+                    ],
+                    [
+                        -77.0162238,
+                        38.9025131,
+                        0
+                    ],
+                    [
+                        -77.0199253,
+                        38.9025047,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "K St NE PBL - .88 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9816202,
+                        38.8787731,
+                        0
+                    ],
+                    [
+                        -77.0035929,
+                        38.8876927,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Penn Ave SE PBL - 1.33 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9475332,
+                        38.9060181,
+                        0
+                    ],
+                    [
+                        -76.9470246,
+                        38.905334,
+                        0
+                    ],
+                    [
+                        -76.9460268,
+                        38.9042737,
+                        0
+                    ],
+                    [
+                        -76.945308,
+                        38.9033803,
+                        0
+                    ],
+                    [
+                        -76.9446428,
+                        38.9029545,
+                        0
+                    ],
+                    [
+                        -76.9437201,
+                        38.9024118,
+                        0
+                    ],
+                    [
+                        -76.9429691,
+                        38.9021363,
+                        0
+                    ],
+                    [
+                        -76.9425495,
+                        38.9018123,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Deane Ave NE PBL - 0.40 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0192404,
+                        38.9425752,
+                        0
+                    ],
+                    [
+                        -77.0190901,
+                        38.9389536,
+                        0
+                    ],
+                    [
+                        -77.0189614,
+                        38.9375182,
+                        0
+                    ],
+                    [
+                        -77.0192618,
+                        38.936884,
+                        0
+                    ],
+                    [
+                        -77.0191974,
+                        38.9353651,
+                        0
+                    ],
+                    [
+                        -77.0191974,
+                        38.9342802,
+                        0
+                    ],
+                    [
+                        -77.0182533,
+                        38.9305329,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Park Pl NW PBL - 0.84 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0214934,
+                        38.9399049,
+                        0
+                    ],
+                    [
+                        -77.021429,
+                        38.9371176,
+                        0
+                    ],
+                    [
+                        -77.0212145,
+                        38.9359326,
+                        0
+                    ],
+                    [
+                        -77.0208497,
+                        38.9337795,
+                        0
+                    ],
+                    [
+                        -77.020163,
+                        38.9313592,
+                        0
+                    ],
+                    [
+                        -77.0198547,
+                        38.9302987,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Warder St NW PBL - 0.67 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0384495,
+                        38.9184785,
+                        0
+                    ],
+                    [
+                        -77.0384924,
+                        38.9024663,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "17th St NW PBL - 1.11 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0239958,
+                        38.8939208,
+                        0
+                    ],
+                    [
+                        -77.0239895,
+                        38.902764,
+                        0
+                    ],
+                    [
+                        -77.0239466,
+                        38.913851,
+                        0
+                    ],
+                    [
+                        -77.0239466,
+                        38.9155874,
+                        0
+                    ],
+                    [
+                        -77.0239681,
+                        38.9170065,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "9th NW PBL - 1.72 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0163617,
+                        38.8918816,
+                        0
+                    ],
+                    [
+                        -77.0153854,
+                        38.8920904,
+                        0
+                    ],
+                    [
+                        -77.0146129,
+                        38.8920904,
+                        0
+                    ],
+                    [
+                        -77.0131752,
+                        38.8920737,
+                        0
+                    ],
+                    [
+                        -77.009109,
+                        38.8951049,
+                        0
+                    ],
+                    [
+                        -77.0074246,
+                        38.8962989,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Louisiana Ave PBL - 0.6 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0448813,
+                        38.9125609,
+                        0
+                    ],
+                    [
+                        -77.0449062,
+                        38.9101291,
+                        0
+                    ],
+                    [
+                        -77.0449276,
+                        38.8973715,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "20th St NW PBL - 0.88 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9791937,
+                        38.8430901,
+                        0
+                    ],
+                    [
+                        -76.9806869,
+                        38.8424256,
+                        0
+                    ],
+                    [
+                        -76.9834067,
+                        38.8412139,
+                        0
+                    ],
+                    [
+                        -76.9853593,
+                        38.8405328,
+                        0
+                    ],
+                    [
+                        -76.9868613,
+                        38.8401024,
+                        0
+                    ],
+                    [
+                        -76.9885148,
+                        38.839815,
+                        0
+                    ],
+                    [
+                        -76.9876672,
+                        38.8399654,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Mississippi Ave SW PBL - 0.60 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9915962,
+                        38.8772391,
+                        0
+                    ],
+                    [
+                        -76.9914773,
+                        38.8764961,
+                        0
+                    ],
+                    [
+                        -76.9915091,
+                        38.8754588,
+                        0
+                    ],
+                    [
+                        -76.9915091,
+                        38.8744398,
+                        0
+                    ],
+                    [
+                        -76.9913375,
+                        38.873521,
+                        0
+                    ],
+                    [
+                        -76.9912302,
+                        38.873237,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "11th St SE PBL - 0.2 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0059398,
+                        38.8765128,
+                        0
+                    ],
+                    [
+                        -76.9914773,
+                        38.8764961,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "M St SE Pilot Mobility Lane",
+                "styleUrl": "#line-E65100-5263",
+                "styleHash": "-3543d9d6",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-normal",
+                    "highlight": "#line-E65100-5263-highlight"
+                },
+                "description": "This project would be a pilot \"mobility lane\" for slow vehicles such as bikes and e-scooters.",
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0466809,
+                        38.8920678,
+                        0
+                    ],
+                    [
+                        -77.0466809,
+                        38.8967857,
+                        0
+                    ],
+                    [
+                        -77.0466594,
+                        38.8983054,
+                        0
+                    ],
+                    [
+                        -77.0466487,
+                        38.8999002,
+                        0
+                    ],
+                    [
+                        -77.046638,
+                        38.9061955,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "21th St NW PBL - 0.97 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0175824,
+                        38.8921151,
+                        0
+                    ],
+                    [
+                        -77.0175395,
+                        38.8792708,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "4th St NW PBL",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0493585,
+                        38.9023102,
+                        0
+                    ],
+                    [
+                        -77.0394343,
+                        38.8988034,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Penn Ave NW PBL - 0.58 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9931344,
+                        38.9039838,
+                        0
+                    ],
+                    [
+                        -76.987432,
+                        38.9090223,
+                        0
+                    ],
+                    [
+                        -76.985753,
+                        38.910475,
+                        0
+                    ],
+                    [
+                        -76.981499,
+                        38.9142525,
+                        0
+                    ],
+                    [
+                        -76.9786988,
+                        38.9167652,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "West Virginia NE PBL - 1.2 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0071232,
+                        38.9175826,
+                        0
+                    ],
+                    [
+                        -77.0069623,
+                        38.9181044,
+                        0
+                    ],
+                    [
+                        -77.0066941,
+                        38.9190017,
+                        0
+                    ],
+                    [
+                        -77.0065493,
+                        38.9194817,
+                        0
+                    ],
+                    [
+                        -77.006501,
+                        38.919682,
+                        0
+                    ],
+                    [
+                        -77.0063776,
+                        38.9198239,
+                        0
+                    ],
+                    [
+                        -77.006222,
+                        38.919945,
+                        0
+                    ],
+                    [
+                        -77.005927,
+                        38.9201077,
+                        0
+                    ],
+                    [
+                        -77.0047093,
+                        38.9207755,
+                        0
+                    ],
+                    [
+                        -77.0044464,
+                        38.9209132,
+                        0
+                    ],
+                    [
+                        -77.0043177,
+                        38.9210426,
+                        0
+                    ],
+                    [
+                        -77.0041943,
+                        38.921364,
+                        0
+                    ],
+                    [
+                        -77.0039475,
+                        38.9222321,
+                        0
+                    ],
+                    [
+                        -77.0038027,
+                        38.922687,
+                        0
+                    ],
+                    [
+                        -77.0035881,
+                        38.9234299,
+                        0
+                    ],
+                    [
+                        -77.0031321,
+                        38.9249031,
+                        0
+                    ],
+                    [
+                        -77.002998,
+                        38.925287,
+                        0
+                    ],
+                    [
+                        -77.0024616,
+                        38.9256,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Lincoln Road NE - 0.9 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0058966,
+                        38.8792905,
+                        0
+                    ],
+                    [
+                        -77.0059016,
+                        38.8746245,
+                        0
+                    ],
+                    [
+                        -77.0058908,
+                        38.8721124,
+                        0
+                    ],
+                    [
+                        -77.0058989,
+                        38.8720435,
+                        0
+                    ],
+                    [
+                        -77.0059284,
+                        38.871985,
+                        0
+                    ],
+                    [
+                        -77.005982,
+                        38.8719349,
+                        0
+                    ],
+                    [
+                        -77.0061135,
+                        38.8718827,
+                        0
+                    ],
+                    [
+                        -77.0084738,
+                        38.8709054,
+                        0
+                    ],
+                    [
+                        -77.0086079,
+                        38.8708573,
+                        0
+                    ],
+                    [
+                        -77.0087367,
+                        38.870826,
+                        0
+                    ],
+                    [
+                        -77.0087769,
+                        38.8708197,
+                        0
+                    ],
+                    [
+                        -77.0090049,
+                        38.8707884,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "First St and Potomac Ave SE PBL - 0.7 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0394474,
+                        38.8983235,
+                        0
+                    ],
+                    [
+                        -77.0523006,
+                        38.8983235,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "G St. NW PBL - 0.7 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0121623,
+                        38.9056505,
+                        0
+                    ],
+                    [
+                        -77.0090402,
+                        38.9056421,
+                        0
+                    ],
+                    [
+                        -77.008933,
+                        38.9056087,
+                        0
+                    ],
+                    [
+                        -77.0058218,
+                        38.9056281,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "M St. NE/NW PBL - 0.2 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9907901,
+                        38.8693771,
+                        0
+                    ],
+                    [
+                        -76.9900122,
+                        38.8687965,
+                        0
+                    ],
+                    [
+                        -76.9892559,
+                        38.8681951,
+                        0
+                    ],
+                    [
+                        -76.9889501,
+                        38.867957,
+                        0
+                    ],
+                    [
+                        -76.9886229,
+                        38.867485,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Good Hope Road SE PBL - 0.2 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.937471,
+                        38.8725696,
+                        0
+                    ],
+                    [
+                        -76.9382166,
+                        38.8722125,
+                        0
+                    ],
+                    [
+                        -76.9391098,
+                        38.871774,
+                        0
+                    ],
+                    [
+                        -76.9394183,
+                        38.8716382,
+                        0
+                    ],
+                    [
+                        -76.9396704,
+                        38.8715505,
+                        0
+                    ],
+                    [
+                        -76.9402229,
+                        38.8714232,
+                        0
+                    ],
+                    [
+                        -76.9406977,
+                        38.8713334,
+                        0
+                    ],
+                    [
+                        -76.9435328,
+                        38.8707758,
+                        0
+                    ],
+                    [
+                        -76.9449812,
+                        38.8704688,
+                        0
+                    ],
+                    [
+                        -76.9452977,
+                        38.8703978,
+                        0
+                    ],
+                    [
+                        -76.9457,
+                        38.8702892,
+                        0
+                    ],
+                    [
+                        -76.9463062,
+                        38.8700679,
+                        0
+                    ],
+                    [
+                        -76.9467997,
+                        38.8698277,
+                        0
+                    ],
+                    [
+                        -76.9471269,
+                        38.8696419,
+                        0
+                    ],
+                    [
+                        -76.9474971,
+                        38.8694017,
+                        0
+                    ],
+                    [
+                        -76.947776,
+                        38.869197,
+                        0
+                    ],
+                    [
+                        -76.9479504,
+                        38.869055,
+                        0
+                    ],
+                    [
+                        -76.9481193,
+                        38.8688692,
+                        0
+                    ],
+                    [
+                        -76.9491761,
+                        38.8677143,
+                        0
+                    ],
+                    [
+                        -76.9497287,
+                        38.8671379,
+                        0
+                    ],
+                    [
+                        -76.9498118,
+                        38.867046,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Alabama Ave SE PBL - 0.7 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9614939,
+                        38.8780606,
+                        0
+                    ],
+                    [
+                        -76.9486193,
+                        38.8728486,
+                        0
+                    ],
+                    [
+                        -76.9435328,
+                        38.8707758,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Massachusetts Ave SE PBL - 1.1 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9782473,
+                        38.9168745,
+                        0
+                    ],
+                    [
+                        -76.9777216,
+                        38.9164321,
+                        0
+                    ],
+                    [
+                        -76.9763912,
+                        38.9152217,
+                        0
+                    ],
+                    [
+                        -76.9751466,
+                        38.914078,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Montana Ave NW PBL",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9834541,
+                        38.8533977,
+                        0
+                    ],
+                    [
+                        -76.9834017,
+                        38.8535196,
+                        0
+                    ],
+                    [
+                        -76.9831013,
+                        38.8536282,
+                        0
+                    ],
+                    [
+                        -76.982758,
+                        38.8538287,
+                        0
+                    ],
+                    [
+                        -76.9827795,
+                        38.8540626,
+                        0
+                    ],
+                    [
+                        -76.9829404,
+                        38.8551655,
+                        0
+                    ],
+                    [
+                        -76.9822108,
+                        38.8551739,
+                        0
+                    ],
+                    [
+                        -76.9822216,
+                        38.8569701,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Sheridan St / Gainesville St SE PBL - 0.3 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9443563,
+                        38.9027892,
+                        0
+                    ],
+                    [
+                        -76.944528,
+                        38.9026138,
+                        0
+                    ],
+                    [
+                        -76.9447211,
+                        38.9023383,
+                        0
+                    ],
+                    [
+                        -76.9449142,
+                        38.9018457,
+                        0
+                    ],
+                    [
+                        -76.9450322,
+                        38.9016203,
+                        0
+                    ],
+                    [
+                        -76.9491414,
+                        38.8983305,
+                        0
+                    ],
+                    [
+                        -76.9517378,
+                        38.8962847,
+                        0
+                    ],
+                    [
+                        -76.9519953,
+                        38.8961428,
+                        0
+                    ],
+                    [
+                        -76.9523386,
+                        38.8960175,
+                        0
+                    ],
+                    [
+                        -76.9527677,
+                        38.8959507,
+                        0
+                    ],
+                    [
+                        -76.9536046,
+                        38.8960676,
+                        0
+                    ],
+                    [
+                        -76.9542698,
+                        38.8961762,
+                        0
+                    ],
+                    [
+                        -76.9546882,
+                        38.8961845,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Kenilworth Ave SE PBL (South) - 0.77 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9446428,
+                        38.9029545,
+                        0
+                    ],
+                    [
+                        -76.94428,
+                        38.903214,
+                        0
+                    ],
+                    [
+                        -76.9439796,
+                        38.9032724,
+                        0
+                    ],
+                    [
+                        -76.9433788,
+                        38.9033225,
+                        0
+                    ],
+                    [
+                        -76.9430784,
+                        38.9034143,
+                        0
+                    ],
+                    [
+                        -76.9426922,
+                        38.9036648,
+                        0
+                    ],
+                    [
+                        -76.9410078,
+                        38.9050174,
+                        0
+                    ],
+                    [
+                        -76.9403855,
+                        38.9055434,
+                        0
+                    ],
+                    [
+                        -76.9395272,
+                        38.9064868,
+                        0
+                    ],
+                    [
+                        -76.9386045,
+                        38.9075221,
+                        0
+                    ],
+                    [
+                        -76.9378213,
+                        38.9083987,
+                        0
+                    ],
+                    [
+                        -76.9369952,
+                        38.9093003,
+                        0
+                    ],
+                    [
+                        -76.9356004,
+                        38.9109199,
+                        0
+                    ],
+                    [
+                        -76.9343773,
+                        38.9123224,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Kenilworth Ave SE PBL (North) - 0.87 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.1069643,
+                        38.9250233,
+                        0
+                    ],
+                    [
+                        -77.1067819,
+                        38.9254073,
+                        0
+                    ],
+                    [
+                        -77.106857,
+                        38.9257078,
+                        0
+                    ],
+                    [
+                        -77.1067819,
+                        38.9260583,
+                        0
+                    ],
+                    [
+                        -77.1066961,
+                        38.9262169,
+                        0
+                    ],
+                    [
+                        -77.1066746,
+                        38.9263421,
+                        0
+                    ],
+                    [
+                        -77.1064171,
+                        38.9265758,
+                        0
+                    ],
+                    [
+                        -77.1061596,
+                        38.9267427,
+                        0
+                    ],
+                    [
+                        -77.1057412,
+                        38.9269764,
+                        0
+                    ],
+                    [
+                        -77.1054193,
+                        38.9270599,
+                        0
+                    ],
+                    [
+                        -77.1050009,
+                        38.9271434,
+                        0
+                    ],
+                    [
+                        -77.1044859,
+                        38.9271768,
+                        0
+                    ],
+                    [
+                        -77.1039924,
+                        38.927352,
+                        0
+                    ],
+                    [
+                        -77.1035632,
+                        38.927519,
+                        0
+                    ],
+                    [
+                        -77.1026298,
+                        38.9279112,
+                        0
+                    ],
+                    [
+                        -77.1018788,
+                        38.9283369,
+                        0
+                    ],
+                    [
+                        -77.1014067,
+                        38.9288043,
+                        0
+                    ],
+                    [
+                        -77.1003553,
+                        38.9296973,
+                        0
+                    ],
+                    [
+                        -77.099615,
+                        38.9303483,
+                        0
+                    ],
+                    [
+                        -77.0974478,
+                        38.9322262,
+                        0
+                    ],
+                    [
+                        -77.0971152,
+                        38.932585,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Arizona Ave NW PBL 0.80 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9791859,
+                        38.8474472,
+                        0
+                    ],
+                    [
+                        -76.9789927,
+                        38.8475683,
+                        0
+                    ],
+                    [
+                        -76.9788157,
+                        38.8476937,
+                        0
+                    ],
+                    [
+                        -76.978628,
+                        38.8478775,
+                        0
+                    ],
+                    [
+                        -76.9784187,
+                        38.8480446,
+                        0
+                    ],
+                    [
+                        -76.9781237,
+                        38.8483788,
+                        0
+                    ],
+                    [
+                        -76.9774585,
+                        38.8493523,
+                        0
+                    ],
+                    [
+                        -76.9769757,
+                        38.8498118,
+                        0
+                    ],
+                    [
+                        -76.9766807,
+                        38.8499998,
+                        0
+                    ],
+                    [
+                        -76.9762032,
+                        38.850309,
+                        0
+                    ],
+                    [
+                        -76.9752269,
+                        38.85071,
+                        0
+                    ],
+                    [
+                        -76.9741969,
+                        38.8509816,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Alabama Ave PBL - 0.4 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9976622,
+                        38.8431394,
+                        0
+                    ],
+                    [
+                        -76.9915468,
+                        38.8441422,
+                        0
+                    ],
+                    [
+                        -76.9884676,
+                        38.844677,
+                        0
+                    ],
+                    [
+                        -76.9834036,
+                        38.8460307,
+                        0
+                    ],
+                    [
+                        -76.9828008,
+                        38.846198,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Alabama Ave PBL - 0.8 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.100793,
+                        38.9487833,
+                        0
+                    ],
+                    [
+                        -77.0967723,
+                        38.9521663,
+                        0
+                    ],
+                    [
+                        -77.0943262,
+                        38.9540812,
+                        0
+                    ],
+                    [
+                        -77.0912416,
+                        38.9564673,
+                        0
+                    ],
+                    [
+                        -77.0858182,
+                        38.9607221,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Western Ave PBL - 1.1 mi",
+                "styleUrl": "#line-E65100-5263-nodesc",
+                "styleHash": "-7ef08450",
+                "styleMapHash": {
+                    "normal": "#line-E65100-5263-nodesc-normal",
+                    "highlight": "#line-E65100-5263-nodesc-highlight"
+                },
+                "stroke": "#e65100",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        }
+    ]
+}

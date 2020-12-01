@@ -1,0 +1,1055 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0571226,
+                        38.9052947,
+                        0
+                    ],
+                    [
+                        -77.0475364,
+                        38.9052828,
+                        0
+                    ],
+                    [
+                        -77.0466861,
+                        38.9056814,
+                        0
+                    ],
+                    [
+                        -77.0325214,
+                        38.9055869,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "M St PBL 1.33mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0489011,
+                        38.9037447,
+                        0
+                    ],
+                    [
+                        -77.0448698,
+                        38.9037447,
+                        0
+                    ],
+                    [
+                        -77.0437969,
+                        38.9037551,
+                        0
+                    ],
+                    [
+                        -77.0416672,
+                        38.9037426,
+                        0
+                    ],
+                    [
+                        -77.0414043,
+                        38.9037614,
+                        0
+                    ],
+                    [
+                        -77.0400793,
+                        38.9037509,
+                        0
+                    ],
+                    [
+                        -77.0397602,
+                        38.9037363,
+                        0
+                    ],
+                    [
+                        -77.0364584,
+                        38.9037384,
+                        0
+                    ],
+                    [
+                        -77.0307184,
+                        38.9037363,
+                        0
+                    ],
+                    [
+                        -77.0280845,
+                        38.9037343,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "L St PBL - 1.18mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0337126,
+                        38.8987953,
+                        0
+                    ],
+                    [
+                        -77.0336911,
+                        38.8954553,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "15 St PBL - 0.23mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0336911,
+                        38.8954553,
+                        0
+                    ],
+                    [
+                        -77.0335194,
+                        38.8955221,
+                        0
+                    ],
+                    [
+                        -77.0296356,
+                        38.8955388,
+                        0
+                    ],
+                    [
+                        -77.0151946,
+                        38.8914304,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Pennsylvania Ave PBL - 1.05 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0590969,
+                        38.9025734,
+                        0
+                    ],
+                    [
+                        -77.0616423,
+                        38.9025692,
+                        0
+                    ],
+                    [
+                        -77.0627715,
+                        38.9025755,
+                        0
+                    ],
+                    [
+                        -77.0631014,
+                        38.9026089,
+                        0
+                    ],
+                    [
+                        -77.0639275,
+                        38.9027842,
+                        0
+                    ],
+                    [
+                        -77.0645122,
+                        38.9029178,
+                        0
+                    ],
+                    [
+                        -77.0650004,
+                        38.903089,
+                        0
+                    ],
+                    [
+                        -77.0659043,
+                        38.9034313,
+                        0
+                    ],
+                    [
+                        -77.0660357,
+                        38.9034689,
+                        0
+                    ],
+                    [
+                        -77.0672401,
+                        38.9037611,
+                        0
+                    ],
+                    [
+                        -77.0689661,
+                        38.9040613,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "K St / Water St PBL - 0.48 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9958037,
+                        38.9095614,
+                        0
+                    ],
+                    [
+                        -76.998266,
+                        38.9062303,
+                        0
+                    ],
+                    [
+                        -76.9983599,
+                        38.9060779,
+                        0
+                    ],
+                    [
+                        -76.9983787,
+                        38.9056688,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "6th St NE PBL - 0.31 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0006237,
+                        38.9056855,
+                        0
+                    ],
+                    [
+                        -77.0006827,
+                        38.9056835,
+                        0
+                    ],
+                    [
+                        -77.000739,
+                        38.9056814,
+                        0
+                    ],
+                    [
+                        -77.0008074,
+                        38.9056824,
+                        0
+                    ],
+                    [
+                        -77.000975,
+                        38.9056834,
+                        0
+                    ],
+                    [
+                        -77.0016845,
+                        38.9056813,
+                        0
+                    ],
+                    [
+                        -77.0019058,
+                        38.9056792,
+                        0
+                    ],
+                    [
+                        -77.0022491,
+                        38.9056271,
+                        0
+                    ],
+                    [
+                        -77.0029223,
+                        38.9056104,
+                        0
+                    ],
+                    [
+                        -77.0031342,
+                        38.9055989,
+                        0
+                    ],
+                    [
+                        -77.0050386,
+                        38.9056385,
+                        0
+                    ],
+                    [
+                        -77.0058218,
+                        38.9056281,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "M St NE PBL - 0.28 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0058218,
+                        38.9056281,
+                        0
+                    ],
+                    [
+                        -77.0058622,
+                        38.9043782,
+                        0
+                    ],
+                    [
+                        -77.0058515,
+                        38.9031217,
+                        0
+                    ],
+                    [
+                        -77.0058729,
+                        38.9022826,
+                        0
+                    ],
+                    [
+                        -77.0058729,
+                        38.9018192,
+                        0
+                    ],
+                    [
+                        -77.0060553,
+                        38.901577,
+                        0
+                    ],
+                    [
+                        -77.0064254,
+                        38.9008798,
+                        0
+                    ],
+                    [
+                        -77.0066615,
+                        38.9002286,
+                        0
+                    ],
+                    [
+                        -77.0073374,
+                        38.8982831,
+                        0
+                    ],
+                    [
+                        -77.00767,
+                        38.8972728,
+                        0
+                    ],
+                    [
+                        -77.007788,
+                        38.8970348,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "First St NE PBL - 0.61 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0006237,
+                        38.9056855,
+                        0
+                    ],
+                    [
+                        -77.0006149,
+                        38.9062232,
+                        0
+                    ],
+                    [
+                        -77.0006216,
+                        38.9064768,
+                        0
+                    ],
+                    [
+                        -77.0006055,
+                        38.9070654,
+                        0
+                    ],
+                    [
+                        -77.0004674,
+                        38.9072741,
+                        0
+                    ],
+                    [
+                        -77.0002984,
+                        38.9075161,
+                        0
+                    ],
+                    [
+                        -77.0000892,
+                        38.9077865,
+                        0
+                    ],
+                    [
+                        -76.999983,
+                        38.9078816,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "4 St NE PBL - 0.16 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.003429,
+                        38.8804623,
+                        0
+                    ],
+                    [
+                        -77.0020409,
+                        38.8801043,
+                        0
+                    ],
+                    [
+                        -77.0013784,
+                        38.8799227,
+                        0
+                    ],
+                    [
+                        -77.0006891,
+                        38.8797327,
+                        0
+                    ],
+                    [
+                        -77.0005241,
+                        38.8796763,
+                        0
+                    ],
+                    [
+                        -77.0001352,
+                        38.8795176,
+                        0
+                    ],
+                    [
+                        -76.9998737,
+                        38.8794257,
+                        0
+                    ],
+                    [
+                        -76.9992984,
+                        38.8792388,
+                        0
+                    ],
+                    [
+                        -76.9985782,
+                        38.8790478,
+                        0
+                    ],
+                    [
+                        -76.9981705,
+                        38.8789392,
+                        0
+                    ],
+                    [
+                        -76.9972478,
+                        38.8786866,
+                        0
+                    ],
+                    [
+                        -76.9964378,
+                        38.8784548,
+                        0
+                    ],
+                    [
+                        -76.9949619,
+                        38.8780356,
+                        0
+                    ],
+                    [
+                        -76.9937838,
+                        38.8777626,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Virginia Ave PBL - 0.5 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0266249,
+                        38.881184,
+                        0
+                    ],
+                    [
+                        -77.0260147,
+                        38.880948,
+                        0
+                    ],
+                    [
+                        -77.0255346,
+                        38.8806693,
+                        0
+                    ],
+                    [
+                        -77.0251792,
+                        38.8803874,
+                        0
+                    ],
+                    [
+                        -77.0243008,
+                        38.8796931,
+                        0
+                    ],
+                    [
+                        -77.0237871,
+                        38.8792734,
+                        0
+                    ],
+                    [
+                        -77.0235082,
+                        38.8790532,
+                        0
+                    ],
+                    [
+                        -77.0226955,
+                        38.87841,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Maine Ave PBL - 0.28 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0353047,
+                        38.9233984,
+                        0
+                    ],
+                    [
+                        -77.0352833,
+                        38.921128,
+                        0
+                    ],
+                    [
+                        -77.0350901,
+                        38.9208609,
+                        0
+                    ],
+                    [
+                        -77.0347897,
+                        38.9206271,
+                        0
+                    ],
+                    [
+                        -77.0348327,
+                        38.919325,
+                        0
+                    ],
+                    [
+                        -77.0346181,
+                        38.9186405,
+                        0
+                    ],
+                    [
+                        -77.0345322,
+                        38.9164868,
+                        0
+                    ],
+                    [
+                        -77.0346395,
+                        38.9115782,
+                        0
+                    ],
+                    [
+                        -77.0345537,
+                        38.9063186,
+                        0
+                    ],
+                    [
+                        -77.0345752,
+                        38.9012757,
+                        0
+                    ],
+                    [
+                        -77.0352189,
+                        38.9001735,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "15th St PBL - 1.62mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0137251,
+                        38.871993,
+                        0
+                    ],
+                    [
+                        -77.0137173,
+                        38.8646471,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "2nd St SW PBL - 0.5 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0525976,
+                        38.9343827,
+                        0
+                    ],
+                    [
+                        -77.0513047,
+                        38.9336817,
+                        0
+                    ],
+                    [
+                        -77.0503338,
+                        38.9332018,
+                        0
+                    ],
+                    [
+                        -77.0494862,
+                        38.9328387,
+                        0
+                    ],
+                    [
+                        -77.0488478,
+                        38.9326426,
+                        0
+                    ],
+                    [
+                        -77.0481076,
+                        38.9326176,
+                        0
+                    ],
+                    [
+                        -77.0471473,
+                        38.9326092,
+                        0
+                    ],
+                    [
+                        -77.046804,
+                        38.9326384,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Klingle Rd NW PBL - 0.35 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0136852,
+                        38.8694788,
+                        0
+                    ],
+                    [
+                        -77.0122368,
+                        38.8694913,
+                        0
+                    ],
+                    [
+                        -77.0090235,
+                        38.8707902,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "R St / Potomac Ave SW PBL - 0.27 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -76.9497379,
+                        38.9026879,
+                        0
+                    ],
+                    [
+                        -76.9504031,
+                        38.9032807,
+                        0
+                    ],
+                    [
+                        -76.9512614,
+                        38.9039904,
+                        0
+                    ],
+                    [
+                        -76.9522055,
+                        38.9048253,
+                        0
+                    ],
+                    [
+                        -76.9527634,
+                        38.9053095,
+                        0
+                    ],
+                    [
+                        -76.9529244,
+                        38.905919,
+                        0
+                    ],
+                    [
+                        -76.9529244,
+                        38.9061945,
+                        0
+                    ],
+                    [
+                        -76.95286,
+                        38.906445,
+                        0
+                    ],
+                    [
+                        -76.952742,
+                        38.9067831,
+                        0
+                    ],
+                    [
+                        -76.9526293,
+                        38.9069522,
+                        0
+                    ],
+                    [
+                        -76.9524845,
+                        38.9070962,
+                        0
+                    ],
+                    [
+                        -76.9520124,
+                        38.9073967,
+                        0
+                    ],
+                    [
+                        -76.9512829,
+                        38.9075303,
+                        0
+                    ],
+                    [
+                        -76.9508859,
+                        38.9075219,
+                        0
+                    ],
+                    [
+                        -76.9505104,
+                        38.9074301,
+                        0
+                    ],
+                    [
+                        -76.9501724,
+                        38.9072757,
+                        0
+                    ],
+                    [
+                        -76.9498881,
+                        38.9070962,
+                        0
+                    ],
+                    [
+                        -76.9495877,
+                        38.9066787,
+                        0
+                    ],
+                    [
+                        -76.9493731,
+                        38.9059607,
+                        0
+                    ],
+                    [
+                        -76.9489225,
+                        38.905393,
+                        0
+                    ],
+                    [
+                        -76.9487723,
+                        38.9052761,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Hayes St NE PBL - 0.67 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0358214,
+                        38.8799168,
+                        0
+                    ],
+                    [
+                        -77.0370767,
+                        38.8799116,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "E Basin Dr SW PBL - 0.07 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.0009978,
+                        38.9310903,
+                        0
+                    ],
+                    [
+                        -77.0004828,
+                        38.930623,
+                        0
+                    ],
+                    [
+                        -77.0004828,
+                        38.9254482,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "4 St NE PBL - 0.4 mi",
+                "styleUrl": "#line-9C27B0-3519-nodesc",
+                "styleHash": "-35190f14",
+                "styleMapHash": {
+                    "normal": "#line-9C27B0-3519-nodesc-normal",
+                    "highlight": "#line-9C27B0-3519-nodesc-highlight"
+                },
+                "stroke": "#9c27b0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.519
+            }
+        }
+    ]
+}
