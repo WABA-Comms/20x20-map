@@ -1,6 +1,4 @@
-<h1>20x20 Campaign Map</h1>
-
-<a href="https://waba.org/42830-2/" target="blank">Demo</a>
+<h1><a href="https://waba-comms.github.io/20x20-map/map.html" target="blank">20x20 Campaign Map</h1></a>
 
 ![Image of the app](https://github.com/WABA-Comms/20x20-map/blob/main/img/app.png)
 
