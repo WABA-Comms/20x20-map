@@ -7,10 +7,12 @@ This map was initially created as part of the 20x20: Connected, Protected, Equit
 
 <h2>Updating Features</h2>
 <ol>
- <li> Use <a href="http://geojson.io/#map=2/20.0/0.0" target="blank">geojson.io</a> to draw features that need updating.</li>
+ <li> Import the JSON file that needs updating into <a href="http://geojson.io/#map=2/20.0/0.0" target="blank">geojson.io</a> and draw/modify features that need updating.</li>
  <li> Use the table view in <a href="http://geojson.io/#map=2/20.0/0.0" target="blank">geojson.io</a> to add attributes.</li>
- <li> Export as a JSON file.</li>
- <li> Create a new mbtiles file with the new JSON file using the mbtiles_script.txt. This requires Tippecanoe (<a href="https://github.com/mapbox/tippecanoe" target="blank">documentation</a>). <b>Don't change names in the script.</b> The names are used as IDs in the application; changing them will make bad things happen.</li>
+ <li> Export as a GeoJSON file.</li>
+ <li> Rename it to replace the relevant JSON file, including changing the file type from GeoJSON to JSON.</li>
+ <li> Create a new mbtiles file with the new JSON file using the mbtiles_script.txt. This is completed in Terminal, and requires Tippecanoe (<a href="https://github.com/mapbox/tippecanoe" target="blank">documentation</a>). <b>Don't change names in the script.</b> The names are used as IDs in the application; changing them will cause the data to fail to appear on the map.</li>
+ <li>Move the mbtiles file to the mbtiles folder, and change the name of it to include today's date.</li>
  <li> Replace the mbtiles file currently hosted in Mapbox with the new one.</li>
  <li> Refresh the application to double check that the changes were made.</li>
 </ol>
